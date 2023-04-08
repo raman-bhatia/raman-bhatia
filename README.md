@@ -2,8 +2,9 @@
  <img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=👩‍💻%Raman%20Bhatia%20👩‍💻&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <h1 align="center"> Hello, I'm Raman Bhatia!</h1> 
+<h2 align="center"> MCIT (UPenn), MBA </h1> 
 <h3 align="center">A passionate Software Engineer from the San Francisco Bay Area, CA</h3>
-<img align="right"  style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" src="https://tenor.com/bQ1xU.gif" />
+<img align="right"  style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="360px" height="270" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" />
 
 <p align="left"> <a href="https://twitter.com/i_raman_bhatia" target="blank"><img src="https://img.shields.io/twitter/follow/i_raman_bhatia?logo=twitter&style=for-the-badge" alt="raman_bhatia" /></a> </p>
 
@@ -53,6 +54,9 @@
 <img src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35" height="25"/>
   &nbsp;    
 <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="25"/>
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" height="25"/>
+ 
  </p>
 
  <p  align="center">
@@ -98,11 +102,6 @@
 </div>
 <!-- ########################################################################################################## -->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-<!-- # 💻 Tech Stack:
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-<!-- ########################################################################################################## -->
 
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a> 
@@ -114,13 +113,10 @@
   </div>
   <br>
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raman-bhatia&show_icons=true&locale=en&layout=compact" alt="sandeeppal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raman-bhatia&show_icons=true&locale=en" alt="RamanBhatia" /></p>
-
-<p><img width=50% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raman-bahtia&" alt="ramanbhatia" />
-<img height="137px" width=50%
-  src="https://stackoverflow-card.vercel.app/?userID=18576721&theme=dracula"
-/>
-  </p> -->
-<!--  ######################################################################################################### -->
+ <div align="center">
+  <p>
+   <h2 align="left"> Check out my recent blogs at Medium </h1> 
+   </p>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rpbhatia/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rpbhatia/0" alt="Recent Article 0"> 
+</div>
