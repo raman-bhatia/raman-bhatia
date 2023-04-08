@@ -116,7 +116,7 @@
 
  <div align="center">
   <p>
-   <h2 align="left"> Check out my recent blogs at Medium </h1> 
+   <h2 align="center"> Check out my recent blogs at Medium </h1> 
    </p>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rpbhatia/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rpbhatia/0" alt="Recent Article 0"> 
 </div>
