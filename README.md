@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 🤩 I’m looking to collaborate on **Full Stack Projects **
+- 🤩 I’m looking to collaborate on **Full Stack Data Science ** projects.
 
 - 💬 Ask me about **Python and Django**
 
