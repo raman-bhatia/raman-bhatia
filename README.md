@@ -14,8 +14,6 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 🤩 I’m looking to collaborate on **Full Stack Data Science** projects.
-
 - 💬 Ask me about **Python and Django**
 
 - 📫 How to reach me **i.raman.bhatia@gmail.com**
@@ -23,6 +21,24 @@
 - ⚡ Fun fact: **Life long learner**
 
 - ❓ Ask me about anything related to Python and related technologies
+
+## Education:
+
+University of Pennsylvania _Masters in Computer Science - (MCIT) - Dec 2022_ 
+
+<img src="[]([https://branding.web-resources.upenn.edu/sites/default/files/styles/card_3x2/public/2022-03/UniversityofPennsylvania_Shield_RGB-2.png?h=3c287ac3&itok=HgG1DNc-](https://branding.web-resources.upenn.edu/sites/default/files/styles/card_3x2/public/2022-03/UniversityofPennsylvania_FullLogo_RGB-4_0.png?h=ab080a2f&itok=tu_jMFEm))"  width="30%" height="30%">
+
+Key Coursework Completed:
+- Introduction to Software Development
+- Mathematical Foundation of Computer Science
+- Algorithms and Computation
+- Data Structures and Software Design
+- Introduction to Computer Systems
+- Computer Systems Programming
+- Statistics for Data Science: An Applied Machine Learning Course
+- Enterprise Data Management (Kelley)
+- Big Data Analytics
+- Blockchains and Cryptography
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10cWDrATR4xOV0H_GoRmUy43DSLk_Zo-t/view?usp=sharing)
 
