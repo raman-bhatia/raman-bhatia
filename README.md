@@ -3,8 +3,20 @@
 
 <h1 align="center"> Hello, I'm Raman Bhatia!</h1> 
 <h2 align="center"> MCIT (UPenn), MBA </h1> 
-<h3 align="center">A passionate Software Engineer from the San Francisco Bay Area, CA</h3>
+<h3 align="center"> A passionate Software Engineer and Expert Technical Project Manager </h3>
 <img align="right"  style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="360px" height="270" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" />
+
+As an experienced Software Application Engineer and Technical Project Manager in the healthcare and tech industries, I have a proven track record of designing, developing, and managing high-quality software applications. With expertise in Python, Java, C++, SQL, Git, and more, I have the technical skills needed to develop and maintain software applications.
+
+At Workday Inc, I have developed financial applications using OOP techniques and created APIs for testing. I conduct unit tests and create automation scripts for feature testing and end-to-end release testing, ensuring the delivery of high-quality software releases. I participate in agile development processes and collaborate on code reviews, knowledge sharing, and mentoring.
+
+As a former Software Quality Intern at Helpsy Health, I worked with a development team to diagnose and fix app bugs, and I created project plans covering budgets, release cycles, sprints, and more.
+
+At the University of Pennsylvania, I designed and developed apps using OOP, unit testing, data modeling, architecture, and publicly available data, leveraging AWS computer environment, MySQL, and Git. I executed data cleansing, loading, and query optimization, and built minimalist UIs for the projects in a collaborative environment.
+
+I am a certified Project Management Professional and Certified Scrum Master, with a Master's in Computer Science (MCIT) from the University of Pennsylvania and a Master of Business Administration from Winston Salem State University. I love writing and sharing my knowledge. I have published multiple articles on Medium including an article on application of cross-validation in machine learning.
+
+With my skills and experience, I am confident in my ability to excel in a Software Engineering or Technical Project Management role.
 
 <p align="left"> <a href="https://twitter.com/i_raman_bhatia" target="blank"><img src="https://img.shields.io/twitter/follow/i_raman_bhatia?logo=twitter&style=for-the-badge" alt="raman_bhatia" /></a> </p>
 
@@ -26,8 +38,9 @@
 
 University of Pennsylvania _Masters in Computer Science - (MCIT) - Dec 2022_ 
 
-<img src="[]([https://branding.web-resources.upenn.edu/sites/default/files/styles/card_3x2/public/2022-03/UniversityofPennsylvania_Shield_RGB-2.png?h=3c287ac3&itok=HgG1DNc-](https://branding.web-resources.upenn.edu/sites/default/files/styles/card_3x2/public/2022-03/UniversityofPennsylvania_FullLogo_RGB-4_0.png?h=ab080a2f&itok=tu_jMFEm))"  width="30%" height="30%">
 
+<img align="right" style="border-radius: 5px; margin: 0 0 5px 35px;" src="https://branding.web-resources.upenn.edu/sites/default/files/styles/card_3x2/public/2022-03/UniversityofPennsylvania_FullLogo_RGB-4_0.png?h=ab080a2f&itok=tu_jMFEm"  width="360px" height="270"/>   
+ 
 Key Coursework Completed:
 - Introduction to Software Development
 - Mathematical Foundation of Computer Science
